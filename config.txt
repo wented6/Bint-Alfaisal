@@ -1,10 +1,6 @@
-﻿token=
-owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+token=NTI3MDE3MjQ2NTk0MzAxOTUy.DwNm7g.3bZAJF8K8YXM7T2sglzirWmbQRM
+owner=491473078090465281
+prefix= B
+game= مِثـل جوانح إلغييّـم ويمكن اخـف .
 stayinchannel=true
-
 songinstatus=false
